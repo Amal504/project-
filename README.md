@@ -6,9 +6,7 @@
 
 ## descrption
 
-### This project we worked on in the techniques of the net site about music combines songs Arabic language ,other languages and some common tools and music history
-add< 4file to html amal.html contain images in table and code for header image and have css file for the text in all page of websits
-have each pqge code table this table contain images and can click on the image comes to other pages
+#### This project we worked on in the techniques of the net site about music combines songs Arabic language ,other languages and some common tools and music history 4file to html amal.html contain images in table and code for header image and have css file for the text in all page of websits have each pqge code table this table contain images and can click on the image comes to other pages
 
 ## Installation
 
